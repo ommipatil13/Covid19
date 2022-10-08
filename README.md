@@ -1,2 +1,2 @@
 # Covid19
-i created covid19 registration form and its stores the data.
+I Created Covid19 Survey Registration Form and data is stored in Database.
